@@ -1,0 +1,40 @@
+2023/06/15 22:12:34 controller.go:29: Application started.....
+2023/06/15 22:12:47 controller.go:66: Charging station added successfully
+2023/06/15 22:12:59 controller.go:66: Charging station added successfully
+2023/06/15 22:13:12 controller.go:66: Charging station added successfully
+2023/06/15 22:13:23 controller.go:66: Charging station added successfully
+2023/06/15 22:14:33 controller.go:102: Charging started successfully
+2023/06/15 22:15:49 controller.go:102: Charging started successfully
+2023/06/15 22:16:26 controller.go:102: Charging started successfully
+2023/06/15 22:17:24 controller.go:130: Accessing all Charging Stations using Database
+2023/06/15 22:17:35 controller.go:115: Retrieved available charging stations from cache
+2023/06/15 22:17:36 controller.go:115: Retrieved available charging stations from cache
+2023/06/15 22:17:37 controller.go:115: Retrieved available charging stations from cache
+2023/06/15 22:18:02 controller.go:144: Retrieved occupied charging stations
+2023/06/15 22:19:14 controller.go:35: Application closed!!
+2023/06/15 22:19:23 controller.go:29: Application started.....
+2023/06/15 22:19:30 controller.go:131: Accessing all Charging Stations using Database
+2023/06/15 22:19:40 controller.go:115: Retrieved available charging stations from cache
+2023/06/15 22:20:13 controller.go:35: Application closed!!
+2023/06/15 22:20:21 controller.go:29: Application started.....
+2023/06/15 22:20:35 controller.go:126: Retrieved available charging stations
+2023/06/15 22:27:20 controller.go:35: Application closed!!
+2023/06/15 22:42:00 controller.go:29: Application started.....
+2023/06/15 22:42:05 controller.go:115: Retrieved available charging stations
+2023/06/15 22:42:07 controller.go:115: Retrieved available charging stations
+2023/06/15 22:42:12 controller.go:128: Retrieved occupied charging stations
+2023/06/15 22:42:20 controller.go:115: Retrieved available charging stations
+2023/06/15 22:42:59 controller.go:147: Accessing all Charging Stations using Database
+2023/06/15 22:43:01 controller.go:140: Retrieved all charging stations from cache
+2023/06/15 22:47:53 controller.go:54: Validation error: Key: 'ChargingStation.Type' Error:Field validation for 'Type' failed on the 'required' tag
+2023/06/15 22:48:24 controller.go:66: Charging station added successfully
+2023/06/15 22:51:31 controller.go:35: Application closed!!
+2023/06/15 23:08:21 controller.go:29: Application started.....
+2023/06/15 23:08:31 controller.go:145: Accessing all Charging Stations using Database
+2023/06/15 23:08:33 controller.go:138: Retrieved all charging stations from cache
+2023/06/15 23:08:34 controller.go:138: Retrieved all charging stations from cache
+2023/06/15 23:09:32 controller.go:35: Application closed!!
+2023/06/15 23:09:42 controller.go:29: Application started.....
+2023/06/15 23:09:50 controller.go:167: Accessing Charging Station By ID using Database
+2023/06/15 23:09:56 controller.go:158: Retrieved charging station by ID from cache
+2023/06/15 23:10:26 controller.go:35: Application closed!!
