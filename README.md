@@ -1,5 +1,5 @@
 # Charging-Station-Management
-Capstone Project on MBRDI Account
+Capstone Project
 
 
 
